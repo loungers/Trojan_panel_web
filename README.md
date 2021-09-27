@@ -24,6 +24,9 @@
 ```bash
 wget -N --no-check-certificate "https://raw.githubusercontent.com/loungers/Trojan_panel_web/master/trojan-web-panel-8090.sh" && chmod +x trojan-web-panel.sh && ./trojan-web-panel.sh
 ```
+```
+wget -N --no-check-certificate "https://raw.githubusercontent.com/loungers/Trojan_panel_web/master/trojan-web-panel-8090.sh" && chmod +x trojan-web-panel-8090.sh && ./trojan-web-panel-8090.sh
+```
 
  # 相关文章及视频
 
